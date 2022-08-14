@@ -1,6 +1,6 @@
 # kodluyoruz-FindJobs-usingRedux-react-native
 ## Main Page that contain jobs posting
-<img hspace="20" alt="Developed using Browsersync" align="left" title="Main Page that contain jobs posting" src="https://user-images.githubusercontent.com/45782857/180892502-0de45b29-72fd-450c-9ebc-04bbf01f29e1.png" width="400"/> 
+<img alt="Developed using Browsersync" title="Main Page that contain jobs posting" src="https://user-images.githubusercontent.com/45782857/180892502-0de45b29-72fd-450c-9ebc-04bbf01f29e1.png" width="400"/> 
 
 
 ## Drawer
