@@ -1,7 +1,6 @@
 # kodluyoruz-FindJobs-usingRedux-react-native
 ## Main Page that contain jobs posting
-<img src="https://user-images.githubusercontent.com/45782857/180892502-0de45b29-72fd-450c-9ebc-04bbf01f29e1.png" width="200"/> 
-![Screenshot_1658791304](https://user-images.githubusercontent.com/45782857/180892502-0de45b29-72fd-450c-9ebc-04bbf01f29e1.png)
+<img name="deneme" src="https://user-images.githubusercontent.com/45782857/180892502-0de45b29-72fd-450c-9ebc-04bbf01f29e1.png" width="400"/> 
 
 
 ## Drawer
